@@ -1,0 +1,90 @@
+{
+  "user": [
+    {
+      "name": "Satish",
+      "username": "Satish Singh",
+      "email": "satish@gmail.com",
+      "mobile": 9758963256,
+      "password": "ASadsdsAS",
+      "role": "Sub-admin",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Satish",
+      "username": "Satish Singh",
+      "email": "satish@gmail.com",
+      "mobile": 9758963256,
+      "password": "satish@123",
+      "role": "Admin"
+    },
+    {
+      "id": 3,
+      "name": "Satish",
+      "username": "Satish Singh",
+      "email": "satish@gmail.com",
+      "mobile": 9758963256,
+      "password": "satish@123",
+      "role": "Sub-admin"
+    },
+    {
+      "id": 4,
+      "name": "John",
+      "username": "John Doe",
+      "email": "john@gmail.com",
+      "mobile": 9986523563,
+      "password": "john@123",
+      "role": "Admin"
+    },
+    {
+      "id": 5,
+      "name": "Jems",
+      "username": "Jems Jhones",
+      "email": "jems@gmail.com",
+      "mobile": 9152635699,
+      "password": "jems@123",
+      "role": "Sub-admin"
+    },
+    {
+      "id": 6,
+      "name": "Manish",
+      "username": "Manish Singh",
+      "email": "satheesh@gmail.com",
+      "mobile": 8745263985,
+      "password": "sathees@123",
+      "role": "User"
+    },
+    {
+      "name": "Sejal Amancha",
+      "username": "sejal_amancha",
+      "email": "admin@gmail.com",
+      "mobile": "9898989898",
+      "password": "Sej@1234",
+      "role": "Admin",
+      "id": 8
+    },
+    {
+      "name": "Sonali",
+      "username": "Sonaa",
+      "email": "sonali@gmail.com",
+      "mobile": "9898989898",
+      "password": "Sonali@123",
+      "role": "User",
+      "id": 9
+    }
+  ],
+  "role": [
+    {
+      "name": "Admin",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Sub-admin"
+    },
+    {
+      "id": 3,
+      "name": "User"
+    }
+  ]
+}
